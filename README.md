@@ -15,7 +15,27 @@ This assignment demonstrates the use of PyCaret for different data mining and ma
 5. **Association Rules Mining**: Discovering interesting relations between variables.
 6. **Time Series Forecasting**: Predicting future values based on historical time-series data. Main difference between Univariate Time Series Forecasting without Exogenous Variables and Univariate Time Series Forecasting with Exogenous Variables lies in the inclusion (or exclusion) of external factors or additional variables that might influence the time series predictions.
 
+**Datasets used**: The datasets I have used are from Kaggle. A few of them are added here and the others are directly downloaded in the Colab.
+
 Each task is implemented using PyCaret's streamlined workflow, highlighting the library's versatility and ease of use.
+
+## Video Implementation
+
+1. **Classification**
+   - Binary Classification: [Watch Video](https://youtu.be/7jb_6B7LKks)
+   - Multiclass Classification: [Watch Video](https://youtu.be/G2Wta3PSPbw)
+2. **Regression**: [Watch Video](https://youtu.be/YwvxquZuwhE)
+3. **Clustering**: [Watch Video](https://youtu.be/e5fvEXpn4bI)
+4. **Anomaly Detection**: [Watch Video](https://youtu.be/6bcgzVIPgxg)
+5. **Association Rules Mining**: [Watch Video](https://youtu.be/7WagEHV4hsY)
+6. **Time Series Forecasting**
+   - Univariate without Exogenous Variables: [Watch Video](https://youtu.be/jbk08iuWQrk)
+   - Univariate with Exogenous Variables: [Watch Video](https://youtu.be/QIQZEQ6eVLo)
+
+Each task is implemented using PyCaret's streamlined workflow, highlighting the library's versatility and ease of use.
+
+- **Gradio Implementation**: [Watch Video](https://youtu.be/R_VI3w19uVI)
+- **Complete Playlist**: [PyCaret Low Code Tasks](https://www.youtube.com/playlist?list=PLGHkLcp2I_S99VL95LxofYaOPgjBVpJc_)
 
 ## Getting Started
 
