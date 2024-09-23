@@ -2,6 +2,10 @@
 
 This repository contains the implementation of various data mining tasks using PyCaret, a low-code machine learning library in Python. The project is part of the CMPE255 Data Mining course assignment.
 
+<p align="center">
+<img width="580" alt="image" src="https://github.com/user-attachments/assets/88c59471-f0a3-4882-9e4d-96ee4be34a17">
+</p>
+
 ## Project Overview
 
 This assignment demonstrates the use of PyCaret for different data mining and machine learning tasks. PyCaret's low-code approach enables rapid model development and comparison, showcasing its efficiency in handling various data mining problems.
@@ -9,13 +13,19 @@ This assignment demonstrates the use of PyCaret for different data mining and ma
 ## Tasks Implemented
 
 1. **Classification**: Predicting categorical outcomes using supervised learning techniques.
-2. **Regression**: Estimating continuous values based on input features.
-3. **Clustering**: Grouping similar data points without predefined labels.
-4. **Anomaly Detection**: Identifying unusual patterns or outliers in the dataset.
-5. **Association Rules Mining**: Discovering interesting relations between variables.
-6. **Time Series Forecasting**: Predicting future values based on historical time-series data. Main difference between Univariate Time Series Forecasting without Exogenous Variables and Univariate Time Series Forecasting with Exogenous Variables lies in the inclusion (or exclusion) of external factors or additional variables that might influence the time series predictions.
+   - Binary Classification: Output variable is a binary variable; True/False, 0/1.
+   - Multiclass Classification: Output variable can have more than one 2 values. Model will classify input data into one of three or more distinct categories or classes.
+3. **Regression**: Estimating continuous values based on input features.
+4. **Clustering**: Grouping similar data points without predefined labels.
+5. **Anomaly Detection**: Identifying unusual patterns or outliers in the dataset.
+6. **Association Rules Mining**: Discovering interesting relations between variables.
+7. **Time Series Forecasting**: Predicting future values based on historical time-series data. Main difference between Univariate Time Series Forecasting without Exogenous Variables and Univariate Time Series Forecasting with Exogenous Variables lies in the inclusion (or exclusion) of external factors or additional variables that might influence the time series predictions.
 
-**Datasets used**: The datasets I have used are from Kaggle. A few of them are added here and the others are directly downloaded in the Colab.
+<p align="center">
+<img width="773" alt="image" src="https://github.com/user-attachments/assets/1f939d9c-86cc-4d27-a867-933ee07edd5c">
+</p>
+
+**Datasets used**: The datasets I have used are from Kaggle. A few of them are added here and the others are directly downloaded in the Colab through code.
 
 Each task is implemented using PyCaret's streamlined workflow, highlighting the library's versatility and ease of use.
 
@@ -43,7 +53,7 @@ To run the notebooks or scripts in this repository:
 
 1. Clone the repository.
 2. Install the required dependencies.
-3. Navigate to the specific task directory and run the notebook or script.
+3. Navigate to the specific notebook and run the notebook.
 
 ## Requirements
 
