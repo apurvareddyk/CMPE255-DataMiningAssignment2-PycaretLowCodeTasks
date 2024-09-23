@@ -51,6 +51,15 @@ To run the notebooks or scripts in this repository:
 - PyCaret
 - Jupyter Notebook (for running .ipynb files)
 
+## Key Features
+
+- Utilizes PyCaret's AutoML capabilities for efficient model training and evaluation
+- GPU acceleration enabled where supported (use_gpu=True in setup function)
+- Comprehensive explanations and step-by-step walkthroughs in each notebook
+- Rewritten and original implementations, not direct copies from PyCaret examples
+- Gradio demos for interactive model exploration
+
+
 ## Contribution
 
 This project is part of an academic assignment. While it's not open for direct contributions, feedback and suggestions are welcome through the issue tracker.
